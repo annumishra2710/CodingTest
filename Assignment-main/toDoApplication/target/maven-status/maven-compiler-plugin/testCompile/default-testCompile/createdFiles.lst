@@ -1,0 +1,5 @@
+com\todoapp\service\UserServiceTests.class
+com\todoapp\controller\ToDoControllerTests.class
+com\todoapp\controller\UserControllerTests.class
+com\todoapp\toDoApplication\ToDoApplicationTests.class
+com\todoapp\service\ToDoServiceTests.class
